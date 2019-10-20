@@ -1,0 +1,49 @@
+.class-one{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+
+.div-one{
+    height: 300px;
+    width: 25%;
+    background-color: red;
+    float: left;
+}
+.div-two{
+    height: 300px;
+    width: 75%;
+    background-color: green;
+    float: left;
+}
+.div-three{
+    height: 50px;
+    width: 100%;
+    background-color: pink;
+    float: left;
+}
+.div-four{
+    height: 600px;
+    width: 20%;
+    background-color: gray;
+    float: left;
+}
+.div-five{
+    height: 600px;
+    width: 80%;
+    background-color: blue;
+    float: left;
+}
+
+.box-one{
+    height: 300px;
+    width: 25%;
+    background-color: red;
+    float: left;
+}
+.box-two{
+    height: 300px;
+    width: 75%;
+    background-color: green;
+    float: left;
+}
